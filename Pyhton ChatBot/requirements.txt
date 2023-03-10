@@ -1,0 +1,13 @@
+#install these python libraries
+
+pip install openai
+pip install speech_recognition
+pip install pyttsx3
+
+#Replace this line of code wih your API key
+
+
+#openai.api_key = "YOUR_API_KEY_HERE"
+
+
+#you can get your own OpenAPI key from here:- https://platform.openai.com/account/api-keys
